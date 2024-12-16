@@ -64,7 +64,7 @@
              </descriptorRefs>
              <archive>
                         <manifest>
-                            <mainClass>main.scala.com.matthewrathbone.spark.Main</mainClass>
+                            <mainClass>main.scala.com.matthewrathbone.spark.ExampleJob</mainClass>
                         </manifest>
              </archive>
             </configuration>
